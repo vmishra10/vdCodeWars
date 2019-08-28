@@ -1,0 +1,51 @@
+{
+  "streams": [
+    {
+      "title": "stream 1",
+      "description": "this is stream 1",
+      "userId": "117390999693494424740",
+      "id": 1
+    },
+    {
+      "title": "stream 2",
+      "description": "this is stream 2",
+      "userId": "117390999693494424740",
+      "id": 2
+    },
+    {
+      "title": "stream 3",
+      "description": "this is stream 3- after edit - patch ",
+      "userId": "117390999693494424740",
+      "id": 3
+    },
+    {
+      "title": "stream 4",
+      "description": "this is stream 4 - after edit ",
+      "id": 4
+    },
+    {
+      "title": "stream new",
+      "description": "this is new stream",
+      "userId": null,
+      "id": 5
+    },
+    {
+      "title": "unexpected behavior",
+      "description": "didn't expect that!",
+      "userId": "117390999693494424740",
+      "id": 6
+    },
+    {
+      "title": "hello",
+      "description": "hello again",
+      "userId": "117390999693494424740",
+      "id": 7
+    },
+    {
+      "title": "reuse stream",
+      "description": "lets do some refactoring",
+      "userId": "117390999693494424740",
+      "id": 8
+    }
+  ]
+}
